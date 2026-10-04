@@ -1,9 +1,8 @@
-> Sunsetted in liue of the deprecation of RepoRater itself.
+> Cascade Sunsetted. RepoRater has been sunset.
 
 <div align="center">
 <img height="150" width="150" src="https://github.com/EddieHubCommunity/RepoRater/raw/ee5f3e61ec1bd7676f02af93d4f3d0e3e3122c57/public/reporater-logo.png" />
 <h1>RepoRater Discord Bot</h1>
-<p><a height="100" width="auto" href="https://discord.eddiehub.org"><img alt="HackTheMountains Discord" src="https://img.shields.io/discord/699608417039286293?style=for-the-badge&logo=discord"></a><p>
 <p>Discord Bot that wraps around the EddieHub Repo Rater API for easier access 🌟</p>
 </div>
 
