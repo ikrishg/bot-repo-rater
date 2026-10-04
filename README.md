@@ -24,6 +24,8 @@
 
 ## 🔥 Usage
 
+<img width="3164" height="2062" alt="image" src="Demo of RepoRater Discord Bot" />
+
 ### 🚀 Production
 
 - Join the [EddieHub Discord](https://discord.eddiehub.org)
