@@ -1,25 +1,27 @@
-# Contributing to HackTheMountains Discord Bot
+# Contributing to RepoRater Discord Bot
+
+> **Sunset.** RepoRater and this bot are retired. New features and active maintenance are not planned; issues and pull requests may not be reviewed.
 
 🎊 Hey, Thank you for considering contributing! We appreciate your valuable time and effort in helping us improve this project. 🎊
 
-The following is a set of guidelines for contributing to the [HTM Discord Bot](https://github.com/xkrishguptaa/bot-dc-htm) on GitHub. These are guidelines, not rules. Use your best judgement, and feel free to propose changes to this document through a pull request!
+The following is a set of guidelines for contributing to the [RepoRater Discord Bot](https://github.com/ikrishg/bot-repo-rater) on GitHub. These are guidelines, not rules. Use your best judgement, and feel free to propose changes to this document through a pull request!
 
 All types of contributions to this project are encouraged and valued. See the [Table of Contents](#table-of-contents) for different ways to help and details about how this project handles them. Please make sure to read the relevant section before making your contribution. The community looks forward to your contributions! 🎉
 
 ## Code of Conduct
 
-This project and all its contributors are governed by our [Code of Conduct](https://github.com/xkrishguptaa/bot-dc-htm/blob/main/CODE_OF_CONDUCT.md). By taking part in this project, you are expected to uphold this code. If you find unacceptable behavior, report it to xkrishguptaa@gmail.com.
+This project and all its contributors are governed by our [Code of Conduct](https://github.com/ikrishg/bot-repo-rater/blob/main/CODE_OF_CONDUCT.md). By taking part in this project, you are expected to uphold this code. If you find unacceptable behavior, report it to xkrishguptaa@gmail.com.
 
 ## I have a Question
 
-If you want to ask a question, we assume that you have read the available [Documentation](https://github.com/xkrishguptaa/bot-dc-htm/blob/main/README.md).
+If you want to ask a question, we assume that you have read the available [Documentation](https://github.com/ikrishg/bot-repo-rater/blob/main/README.md).
 
-Before you ask a question, it is best to search for existing [Issues](https://github.com/xkrishguptaa/bot-dc-htm/issues) that might help you. In case you found a suitable issue and still need clarification, you can write your question in the issue. It is also advisable to search the internet for answers first.
+Before you ask a question, it is best to search for existing [Issues](https://github.com/ikrishg/bot-repo-rater/issues) that might help you. In case you found a suitable issue and still need clarification, you can write your question in the issue. It is also advisable to search the internet for answers first.
 
 If you then still feel the need to ask a question and need clarification, we recommend the following:
 
 - Join us on [Discord](https://bit.ly/HackTheMountains) and ask it!
-- Open an [Issue](https://github.com/xkrishguptaa/bot-dc-htm/issues/new).
+- Open an [Issue](https://github.com/ikrishg/bot-repo-rater/issues/new).
 - Provide as much context as you can about what you're running into.
 - Provide project and platform versions, depending on what seems relevant.
 
@@ -32,7 +34,7 @@ We will take care of the issue as soon as possible
 
 ### Reporting Bugs
 
-This section guides you through submitting a bug report for HackTheMountains Discord Bot. Following these guidelines helps maintainers and the community understand your report 📝, reproduce the behaviour 🖥️, and find related reports 🔍.
+This section guides you through submitting a bug report for the RepoRater Discord Bot. Following these guidelines helps maintainers and the community understand your report 📝, reproduce the behaviour 🖥️, and find related reports 🔍.
 
 > Note: If you find a Closed issue that seems like it is the same thing that you're experiencing, open a new issue and include a link to the original issue in the body of your new one.
 
@@ -61,12 +63,12 @@ This section guides you through submitting an enhancement suggestion for the pro
 #### Before Submitting an Enhancement
 
 - **Check if the functionality is already covered**.
-- **Perform a [search](https://github.com/xkrishguptaa/bot-dc-htm/issues) to see if the enhancement has already been suggested.** If it has, add a comment to the existing issue instead of opening a new one.
+- **Perform a [search](https://github.com/ikrishg/bot-repo-rater/issues) to see if the enhancement has already been suggested.** If it has, add a comment to the existing issue instead of opening a new one.
 - **Find out whether your idea fits with the scope and aims of the project.** It's up to you to make a strong case to convince the project's developers of the merits of this feature. Keep in mind that we want features that will be useful to the majority of our users and not just a small subset. 
 
 #### How Do I Submit a Good Enhancement Suggestion?
 
-**Enhancement suggestions are tracked as [GitHub issues](https://github.com/xkrishguptaa/bot-dc-htm/issues)**. If you want to submit an enhancement suggestion, create an issue on the repository and provide the following information:
+**Enhancement suggestions are tracked as [GitHub issues](https://github.com/ikrishg/bot-repo-rater/issues)**. If you want to submit an enhancement suggestion, create an issue on the repository and provide the following information:
 
 - Use a **clear and descriptive title** for the issue to identify the suggestion.
 - Provide a **step-by-step description of the suggested enhancement** in as many details as possible.

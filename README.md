@@ -1,49 +1,20 @@
-> Cascade Sunsetted. RepoRater has been sunset.
+> **Sunset.** [RepoRater](https://github.com/EddieHubCommunity/RepoRater) and this Discord bot have been retired. They are no longer maintained, hosted, or accepting new users.
 
 <div align="center">
-<img height="150" width="150" src="https://github.com/EddieHubCommunity/RepoRater/raw/ee5f3e61ec1bd7676f02af93d4f3d0e3e3122c57/public/reporater-logo.png" />
+<img height="150" width="150" src="https://github.com/EddieHubCommunity/RepoRater/raw/ee5f3e61ec1bd7676f02af93d4f3d0e3e3122c57/public/reporater-logo.png" alt="RepoRater logo" />
 <h1>RepoRater Discord Bot</h1>
-<p>Discord Bot that wraps around the EddieHub Repo Rater API for easier access 🌟</p>
+<p>Archived source for a Discord bot that previously wrapped the EddieHub Repo Rater API.</p>
 </div>
 
-## 🌟 Features
+## Status
 
-- **/leaderboard voters** - Check the top 10 voters
-- **/leaderboard projects** `[COMING SOON]` - Check the top 10 projects
-- **/project <project_name>** `[COMING SOON]` - Check the details of a project
-- **/vote <project_name>** `[COMING SOON]` - Drops a link for you to vote the project
+This repository is kept for historical reference only. The bot is not deployed and the underlying RepoRater service has been sunset.
 
-## 🛠️ Technologies Used
+## Background
 
-- **Language**: [Typescript](https://www.typescriptlang.org/)
-- **Framework**: [Sapphire Framework](https://sapphirejs.dev/)
-- **API Library**: [Discord.js](https://discord.js.org/)
-- **Containerization**: [Docker](https://www.docker.com/)
-- **Hosting**: [Railway](https://railway.app/)
-- **Rating System**: [EddieHubCommunity/RepoRater](https://github.com/EddieHubCommunity/RepoRater)
+- **Rating system:** [EddieHubCommunity/RepoRater](https://github.com/EddieHubCommunity/RepoRater) (sunset)
+- **Stack:** TypeScript, [Sapphire](https://sapphirejs.dev/), [Discord.js](https://discord.js.org/)
 
-## 🔥 Usage
-
-<img width="3164" height="2062" alt="image" src="Demo of RepoRater Discord Bot" />
-
-### 🚀 Production
-
-- Join the [EddieHub Discord](https://discord.eddiehub.org)
-- Go to `#bot-chat` channel
-- Run the bot commands!
-
-### 🛠️ Development
-
-- Clone the repository
-- Install dependencies using `yarn`
-- Create a `.env` file and add the following variables:
-
-```env
-DISCORD_TOKEN=
-```
-
-- Run the bot using `yarn dev`
-
-## 📝 License
+## License
 
 This project is licensed under the GNU GPL v3 License. See the [LICENSE](LICENSE) file for more information.
